@@ -12,6 +12,8 @@ To install the app
 To run the app 
 ::
     python3 random_joke_generator
+    
+To use the app - hit the browser with the URL- http:localhost:9600/
 
 Testing
 '''''''
