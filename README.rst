@@ -16,18 +16,15 @@ To run the app
 Testing
 '''''''
 ::
-
     python3 -m unittest 
-or 
+or
 ::
-
     python3 setup.py test
 
 
 Docker build
 '''''''
 ::
-
     docker build -t <imagename>  .
 
 Running docker image
